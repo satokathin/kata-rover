@@ -3,8 +3,8 @@ To run the Script:
 python rover.py input.txt
 ```
 
-#encours
-To run tests: 
+
+To run tests(*In progress*):
 ```bash
 python pytest
 ```
